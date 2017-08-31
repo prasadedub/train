@@ -11,4 +11,6 @@ func main(){
 incr := wrapper()
 fmt.Println(incr())
 fmt.Println(incr())
+
+fmt.Println(incr())
 }
